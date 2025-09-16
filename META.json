@@ -1,0 +1,61 @@
+{
+  "category": "vpn",
+  "created_date": "2025-09-15T22:48:59.246024",
+  "default_ports": [
+    80,
+    443,
+    41641
+  ],
+  "dependencies": [],
+  "description": "tailscale is a free and open-source zero config VPN. Built on WireGuard, Tailscale provides mesh VPN that works like magic, serving as a user-friendly alternative to traditional VPNs",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/vpn/tailscale",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/vpn/tailscale",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.246050",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "tailscale",
+  "repository_url": "https://github.com/howtomgr/tailscale",
+  "spec_version": "2.0",
+  "subcategory": "vpn",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "vpn",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "tailscale Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/vpn/tailscale"
+}
